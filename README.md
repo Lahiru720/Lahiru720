@@ -1,4 +1,5 @@
-![oie_7R8L6Vk09BPf](https://user-images.githubusercontent.com/66423576/148696815-5ed0fe23-52db-47de-9982-7bf1ed911c7f.png)
+![oie_l36Exku81jCr](https://user-images.githubusercontent.com/66423576/148697042-61b9d652-6439-484b-abf2-efed2009df15.png)
+
 
 - 👋 Hi, I’m @Lahiru720
 - 👀 I’m interested in ...
