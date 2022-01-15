@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
 <h3 align="center">Junior Software Engineer</h3>
-![bd4ed327189c2a56695beb91cd534570](https://user-images.githubusercontent.com/66423576/149631846-b2ad2f0b-7f97-4dac-8367-50e7afdf97ac.gif)
 
+<p align="center"> <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="lahiru720" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru720&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru720" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru720" alt="lahiru720" /></a> </p>
