@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lahiru</h1>
+<h1 align="center">Hi 👋 I'm Lahiru</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="lahiru720" /> </p>
